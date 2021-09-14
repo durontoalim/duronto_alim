@@ -276,7 +276,13 @@ svg.reactt circle {
   width: 100%;
   overflow: hidden;
 }
-
+#contacts .card {
+  border: none;
+  border-radius: none;
+}
+.card-img-overlay i {
+  font-size: 30px;
+}
 .portfolio-img {
   width: 100%;
   height: 300px;
@@ -429,18 +435,6 @@ svg.reactt circle {
 
 .contact-facebook div h3 {
   color: #0071db;
-}
-
-.about-uss {
-  cursor: pointer;
-}
-
-.abslte {
-  cursor: pointer;
-}
-
-.contact-portfolio i {
-  font-size: 30px;
 }
 
 footer {

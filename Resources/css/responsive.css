@@ -1,174 +1,127 @@
-@media only screen and (max-width:991px) {
-    .-image-logo {
-        bottom: 30px;
-        left: 25%;
-    }
+@media only screen and (max-width: 991px) {
+  .-image-logo {
+    bottom: 30px;
+    left: 25%;
+  }
 
-    .band-logo {
-        max-width: 100%;
-        width: 20%;
-    }
+  .band-logo {
+    max-width: 100%;
+    width: 20%;
+  }
 }
 
-@media only screen and (max-width:767px) {
-    .-image-logo a i {
-        font-size: 30px;
-    }
+@media only screen and (max-width: 767px) {
+  .-image-logo a i {
+    font-size: 30px;
+  }
 
-    .-image-logo {
-        bottom: 75px;
-        left: 70px;
-    }
+  .-image-logo {
+    bottom: 75px;
+    left: 70px;
+  }
 
-    .img-relative-lmr {
-        transform: translateX(-320px);
-    }
+  .img-relative-lmr {
+    transform: translateX(-320px);
+  }
 
-    .portfolio-img {
-        height: 400px;
-    }
+  .portfolio-img {
+    height: 400px;
+  }
 
-    .-image-logo a {
-        padding: 20px !important;
-    }
+  .-image-logo a {
+    padding: 20px !important;
+  }
 
-    .carousel-inner {
-        height: 30vh;
-    }
+  .carousel-inner {
+    height: 30vh;
+  }
 
-    .carousel-item {
-        height: 30vh;
-    }
+  .carousel-item {
+    height: 30vh;
+  }
 
-    .carousel-item img {
-        height: 100%;
-        overflow: hidden;
-    }
+  .carousel-item img {
+    height: 100%;
+    overflow: hidden;
+  }
 }
 
-@media only screen and (max-width:575px) {
-    .header-btn button {
-        margin-top: 25px;
-    }
+@media only screen and (max-width: 575px) {
+  .header-btn button {
+    margin-top: 25px;
+  }
 
-    .band-logo {
-        max-width: 100%;
-        width: 25%;
-    }
+  .band-logo {
+    max-width: 100%;
+    width: 25%;
+  }
 
-    .-image-logo {
-        bottom: 24%;
-        left: 22%;
-    }
+  .-image-logo {
+    bottom: 24%;
+    left: 22%;
+  }
 
-    .-image-logo a {
-        padding: 14px !important;
-    }
+  .-image-logo a {
+    padding: 14px !important;
+  }
 
-    .portfolio-img {
-        height: 330px;
-    }
+  .portfolio-img {
+    height: 330px;
+  }
 
-    .contacts-btn {
-        padding-bottom: 70px;
-    }
+  .contacts-btn {
+    padding-bottom: 70px;
+  }
+  .social a {
+    padding-right: 10px;
+  }
 
-    .abslte-1 {
-        top: -9%;
-    }
-
-    .abslte-2 {
-        top: -9%;
-    }
-
-    .abslte-3 {
-        bottom: -9%;
-    }
-
-    .abslte-4 {
-        bottom: -9%;
-    }
-
-    .social a {
-        padding-right: 10px;
-    }
-
-    .email,
-    .Phone {
-        font-size: 14px;
-    }
+  .email,
+  .Phone {
+    font-size: 14px;
+  }
 }
 
-@media only screen and (max-width:520px) {
-    .-image-logo {
-        bottom: 30%;
-        left: 20%;
-    }
+@media only screen and (max-width: 520px) {
+  .-image-logo {
+    bottom: 30%;
+    left: 20%;
+  }
 
-    .-image-logo a i {
-        font-size: 14px;
-    }
+  .-image-logo a i {
+    font-size: 14px;
+  }
 }
 
-@media only screen and (max-width:420px) {
-    .band-logo {
-        max-width: 100%;
-        width: 30%;
-    }
+@media only screen and (max-width: 420px) {
+  .band-logo {
+    max-width: 100%;
+    width: 30%;
+  }
 
-    .abslte-1 {
-        top: -15%;
-    }
+  .-image-logo {
+    bottom: 30%;
+    left: 20%;
+  }
 
-    .abslte-2 {
-        top: -15%;
-    }
-
-    .abslte-3 {
-        bottom: -17%;
-    }
-
-    .abslte-4 {
-        bottom: -17%;
-    }
-
-    .-image-logo {
-        bottom: 30%;
-        left: 20%;
-    }
-
-    .-image-logo a {
-        padding: 10px 0;
-    }
+  .-image-logo a {
+    padding: 10px 0;
+  }
+  #contacts .card .card-img-overlay {
+    padding-top: 0px !important;
+  }
 }
 
-@media only screen and (max-width:360px) {
-    .abslte-1 {
-        top: -25%;
-    }
-
-    .abslte-2 {
-        top: -25%;
-    }
-
-    .abslte-3 {
-        bottom: -30%;
-    }
-
-    .abslte-4 {
-        bottom: -30%;
-    }
-
-    .-image-logo {
-        bottom: 30%;
-        left: 18%;
-    }
-
+@media only screen and (max-width: 360px) {
+  .-image-logo {
+    bottom: 30%;
+    left: 18%;
+  }
 }
 
-@media only screen and (max-width:360px) {
-    .-image-logo {
-        bottom: 30%;
-        left: 13%;
-    }
+@media only screen and (max-width: 360px) {
+  .-image-logo {
+    bottom: 30%;
+    left: 13%;
+  }
 }
