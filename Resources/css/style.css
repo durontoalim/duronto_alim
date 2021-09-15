@@ -64,7 +64,6 @@ header {
   width: 100%;
   height: auto;
 }
-
 .top-barmain i {
   color: #ff5200;
 }
@@ -95,14 +94,8 @@ h1 {
 
 .band-logo {
   max-width: 100%;
-  width: 15%;
+  width: 5%;
 }
-
-.band-logo img {
-  max-width: 100%;
-  width: 100%;
-}
-
 .nav-list-wrapper ul li a {
   font-size: 18px;
 }
