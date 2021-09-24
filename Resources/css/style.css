@@ -63,13 +63,7 @@ header {
   background: #e1e5e8;
   width: 100%;
   height: auto;
-}
-.top-barmain i {
-  color: #ff5200;
-}
-
-.top-barmain i:hover {
-  color: #000;
+  margin-top: 100px;
 }
 
 .btn-outline-warning:hover {
@@ -94,7 +88,7 @@ h1 {
 
 .band-logo {
   max-width: 100%;
-  width: 5%;
+  width: 10%;
 }
 .nav-list-wrapper ul li a {
   font-size: 18px;
