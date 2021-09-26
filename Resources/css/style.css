@@ -272,7 +272,9 @@ svg.javascriptt circle {
 svg.reactt circle {
   stroke: #00008b;
 }
-
+/*==============
+Contacts Section
+===============*/
 #contacts {
   background: #c8c5c5;
   height: auto;
@@ -294,7 +296,11 @@ svg.reactt circle {
 .portfolio-section .mixitup-control-active {
   background: #fff;
 }
-
+form .btn {
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+}
 /*=====================
     SOCIAL CONTACT SECTION
 ====================*/
