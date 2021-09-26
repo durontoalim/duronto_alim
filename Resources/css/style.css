@@ -62,11 +62,26 @@ button {
 header {
   background: #e1e5e8;
   width: 100%;
-  height: auto;
-  margin-top: 100px;
+  height: 100vh;
+  margin-top: 85px;
 }
-
-.btn-outline-warning:hover {
+.header-hero-wrapper {
+}
+.myname {
+  font-size: 110px;
+  color: transparent;
+  -webkit-text-stroke: 1px #044a91;
+  background: url(img/back.png);
+  -webkit-background-clip: text;
+  background-position: 0 0;
+  animation: back 20s linear infinite;
+}
+@keyframes back {
+  100% {
+    background-position: 2000px 0;
+  }
+}
+.btn-outline-warning: hover {
   color: #fff;
 }
 

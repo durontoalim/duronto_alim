@@ -8,6 +8,9 @@
     max-width: 100%;
     width: 20%;
   }
+  .myname {
+    font-size: 70px;
+  }
 }
 
 @media only screen and (max-width: 767px) {
@@ -83,6 +86,9 @@
 }
 
 @media only screen and (max-width: 520px) {
+  .myname {
+    font-size: 60px;
+  }
   .-image-logo {
     bottom: 30%;
     left: 20%;
